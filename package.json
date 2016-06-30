@@ -1,0 +1,25 @@
+{
+    "name": "magix-analysis",
+    "version": "1.0.0",
+    "devDependencies": {
+        "gulp": "",
+        "gulp-uglify": ""
+    },
+    "description": "magix项目性能分析工具",
+    "main": "analysis.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thx/magix-analysis.git"
+    },
+    "keywords": [
+        "magix",
+        "analysis",
+        "kissy"
+    ],
+    "author": "xinglie <xinglie.lkf@taobao.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/thx/magix-analysis/issues"
+    },
+    "homepage": "https://github.com/thx/magix-analysis#readme"
+}
